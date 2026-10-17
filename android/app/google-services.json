@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816270685726",
+    "project_id": "motor-installment-tracker",
+    "storage_bucket": "motor-installment-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816270685726:android:a239f673df768ae260a00f",
+        "android_client_info": {
+          "package_name": "com.jerson.motortracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-kl_U1zRIbTeOgrghyPmpp3O61uz6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816270685726:android:354ab03484193d2660a00f",
+        "android_client_info": {
+          "package_name": "com.motor.installmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-kl_U1zRIbTeOgrghyPmpp3O61uz6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
